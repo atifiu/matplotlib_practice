@@ -27,5 +27,7 @@ We will using San Francisco Airport Dataset for training. https://data.sfgov.org
 ### Time Series plot
 
 Added Time Series Plot Notebook based on Climate Change dataset.
+![Alt text](Climate_change_time_series_basic_plot.png)
 
-
+Added Time Series Plot with annotation.
+![Alt text](Climate_change_time_series_annotated_plot.png)
