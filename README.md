@@ -31,3 +31,6 @@ Added Time Series Plot Notebook based on Climate Change dataset.
 
 Added Time Series Plot with annotation.
 ![Alt text](Climate_change_time_series_annotated_plot.png)
+
+Added Pie Chart Plot
+![Alt text](San_Francisco_Passenger_top4_piechart.png)
