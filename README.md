@@ -42,3 +42,13 @@ Added Pie Chart Plot
 
 Added Stacked Bar plot
 ![Alt text](Medals_stacked_barplot.png)
+
+### Histogram Plots
+
+Added Histogram Plot
+![Alt text](Gym_rowing_weight_historgram.png)
+
+### Boxplots
+
+Added BoxPlot
+![Alt text](Gym_rowing_weight_boxplot.png)
