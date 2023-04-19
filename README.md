@@ -52,3 +52,8 @@ Added Histogram Plot
 
 Added BoxPlot
 ![Alt text](Gym_rowing_weight_boxplot.png)
+
+### Stacked plots
+
+Added Stacked plots
+![Alt text](San_Francisco_Passenger_stackplot.png)
